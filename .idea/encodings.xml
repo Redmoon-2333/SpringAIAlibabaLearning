@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/SAA-02Ollama/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SAA-02Ollama/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SAA-03ChatModelChatClient/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SAA-03ChatModelChatClient/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SAA-04StreamingOutput/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SAA-04StreamingOutput/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SAA-06PromptTemplate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SAA-06PromptTemplate/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SAA-08Persistent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SAA-08Persistent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SAA-09Text2image/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SAA-09Text2image/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SAA-10Text2voice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SAA-10Text2voice/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SAA-11Embed2vector/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SAA-11Embed2vector/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SAA-12RAG4AiOps/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SAA-12RAG4AiOps/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SSA-01HelloWorld/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SSA-01HelloWorld/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SSA-05Prompt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SSA-05Prompt/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SSA-07SructedOutput/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SSA-07SructedOutput/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

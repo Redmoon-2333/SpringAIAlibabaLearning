@@ -1,0 +1,28 @@
+server:
+  port: 8011
+  servlet:
+    encoding:
+      charset: utf-8
+      enabled: true
+      force: true
+
+spring:
+  application:
+    name: SAA-11Embed2vector
+  ai:
+    dashscope:
+      api-key: ${aliQwen_api}
+      chat:
+        options:
+          model: qwen-plus
+      embedding:
+        options:
+          model: text-embedding-v3
+    vectorstore:
+      qdrant:
+        host: localhost
+        port: 6334
+        # 如果设置了 API Key，可以配置：
+        # api-key: your-api-key
+        collection-name: my-documents
+        initialize-schema: true

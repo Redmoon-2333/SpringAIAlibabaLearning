@@ -1,0 +1,17 @@
+server:
+  port: 8003
+
+  servlet:
+    encoding:
+      enabled: true
+      force: true
+      charset: UTF-8
+
+spring:
+  application:
+    name: SAA-03ChatModelChatClient
+
+  # ====SpringAIAlibaba Config=============
+  ai:
+    dashscope:
+      api-key: ${aliQwen_api}

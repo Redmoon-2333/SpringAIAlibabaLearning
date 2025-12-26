@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/SSA-01HelloWorld/pom.xml" />
+        <option value="$PROJECT_DIR$/SSA-01HelloWorld/SAA-02Ollama/pom.xml" />
+        <option value="$PROJECT_DIR$/SAA-02Ollama/pom.xml" />
+        <option value="$PROJECT_DIR$/SAA-03ChatModelChatClient/pom.xml" />
+        <option value="$PROJECT_DIR$/SAA-04StreamingOutput/pom.xml" />
+        <option value="$PROJECT_DIR$/SAA-13ToolCalling/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/SSA-01HelloWorld/SAA-02Ollama/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="ms-21" project-jdk-type="JavaSDK" />
+</project>
