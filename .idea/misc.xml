@@ -11,6 +11,11 @@
         <option value="$PROJECT_DIR$/SAA-03ChatModelChatClient/pom.xml" />
         <option value="$PROJECT_DIR$/SAA-04StreamingOutput/pom.xml" />
         <option value="$PROJECT_DIR$/SAA-13ToolCalling/pom.xml" />
+        <option value="$PROJECT_DIR$/SAA-14LocalMcpServer/pom.xml" />
+        <option value="$PROJECT_DIR$/SAA-15LocalMcpClient/pom.xml" />
+        <option value="$PROJECT_DIR$/SAA-16ClientCallBaiduMcpServer/pom.xml" />
+        <option value="$PROJECT_DIR$/SAA-17BailianRAG/pom.xml" />
+        <option value="$PROJECT_DIR$/SAA-18TodayMenu/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

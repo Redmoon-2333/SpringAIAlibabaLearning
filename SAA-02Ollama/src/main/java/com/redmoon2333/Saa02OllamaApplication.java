@@ -1,4 +1,4 @@
-package com.atguigu.study;
+package com.redmoon2333;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -8,6 +8,6 @@ public class Saa02OllamaApplication
 {
     public static void main(String[] args)
     {
-        SpringApplication.run(Saa02OllamaApplication.class,args);
+        SpringApplication.run(Saa02OllamaApplication.class, args);
     }
 }

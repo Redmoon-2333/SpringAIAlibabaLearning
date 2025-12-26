@@ -1,4 +1,4 @@
-package com.atguigu.study.controller;
+package com.redmoon2333.controller;
 
 import jakarta.annotation.Resource;
 import org.springframework.ai.chat.model.ChatModel;
@@ -14,7 +14,6 @@ public class OllamaController
     @Resource(name = "ollamaChatModel")
     private ChatModel chatModel;
 
-
     @GetMapping("/ollama/chat")
     public String chat(@RequestParam(name = "msg") String msg)
     {
@@ -24,7 +23,7 @@ public class OllamaController
     }
 
     @GetMapping("/ollama/streamchat")
-    public Flux<String> streamchat(@RequestParam(name = "msg",defaultValue = "你是谁") String msg)
+    public Flux<String> streamchat(@RequestParam(name = "msg", defaultValue = "你是谁") String msg)
     {
         return chatModel.stream(msg);
     }
